@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Anime-wars-main\\Anime-wars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|e:\\anime-wars-main\\anime-wars\\assets\\script\\battlekvestklan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battlekvestklan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\clientsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clientsend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\gamecontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamecontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|e:\\anime-wars-main\\anime-wars\\assets\\script\\clienthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clienthandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\personbattlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\personbattlescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\personprefabscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\personprefabscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|e:\\anime-wars-main\\anime-wars\\assets\\script\\cvestcklan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cvestcklan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\msgchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\msgchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\SampleWebView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\script\\SampleWebView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Anime-wars-main\\Anime-wars\\Assets\\ExternalDependencyManager\\Editor\\1.2.169\\Google.IOSResolver.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ExternalDependencyManager\\Editor\\1.2.169\\Google.IOSResolver.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\infoitempersonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\infoitempersonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\itemslotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemslotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\selectitemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\selectitemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\itemshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\winitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\winitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\iteminfopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\iteminfopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\perscontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\perscontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\iteminfoshoppersonsnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\iteminfoshoppersonsnar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\materailscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\materailscripts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\shopitempredmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shopitempredmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\prizav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\prizav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\controlpersonscreapt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controlpersonscreapt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\evalutionpanelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\evalutionpanelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|E:\\Anime-wars-main\\Anime-wars\\assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7053873C-53BD-BB18-41B2-79DAB3506C75}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BattleKvestKlan.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\BattleKvestKlan.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\BattleKvestKlan.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\BattleKvestKlan.cs",
+              "RelativeToolTip": "Assets\\script\\BattleKvestKlan.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAAAEUBAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:50:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CvestCklan.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\CvestCklan.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CvestCklan.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\CvestCklan.cs",
+              "RelativeToolTip": "Assets\\script\\CvestCklan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:44:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersControlScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\PersControlScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PersControlScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\PersControlScript.cs",
+              "RelativeToolTip": "Assets\\script\\PersControlScript.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAD4v2sAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:55:43.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemInfoShopPersonSnar.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemInfoShopPersonSnar.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ItemInfoShopPersonSnar.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemInfoShopPersonSnar.cs",
+              "RelativeToolTip": "Assets\\script\\ItemInfoShopPersonSnar.cs",
+              "ViewState": "AgIAAAsFAAAAAAAAAAAAwCYFAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:55:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ItemInfoPanel.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemInfoPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ItemInfoPanel.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemInfoPanel.cs",
+              "RelativeToolTip": "Assets\\script\\ItemInfoPanel.cs",
+              "ViewState": "AgIAAFICAAAAAAAAAAAAAIoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:02:52.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InfoItemPersonScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\InfoItemPersonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\InfoItemPersonScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\InfoItemPersonScript.cs",
+              "RelativeToolTip": "Assets\\script\\InfoItemPersonScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:01:51.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WinItem.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\WinItem.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\WinItem.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\WinItem.cs",
+              "RelativeToolTip": "Assets\\script\\WinItem.cs",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAAAOoCAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:27:16.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemShop.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemShop.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ItemShop.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemShop.cs",
+              "RelativeToolTip": "Assets\\script\\ItemShop.cs",
+              "ViewState": "AgIAALwEAAAAAAAAAAAAADEDAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:03:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SelectItemScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\SelectItemScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SelectItemScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\SelectItemScript.cs",
+              "RelativeToolTip": "Assets\\script\\SelectItemScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:26:15.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameControll.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\GameControll.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameControll.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\GameControll.cs",
+              "RelativeToolTip": "Assets\\script\\GameControll.cs",
+              "ViewState": "AgIAAHQJAAAAAAAAAAAawI0JAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:31:25.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemSlotScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemSlotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ItemSlotScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ItemSlotScript.cs",
+              "RelativeToolTip": "Assets\\script\\ItemSlotScript.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:27:50.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientHandle.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ClientHandle.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ClientHandle.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ClientHandle.cs",
+              "RelativeToolTip": "Assets\\script\\ClientHandle.cs",
+              "ViewState": "AgIAALACAAAAAAAAAAAtwMoCAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:20:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonBattleScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\PersonBattleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PersonBattleScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\PersonBattleScript.cs",
+              "RelativeToolTip": "Assets\\script\\PersonBattleScript.cs",
+              "ViewState": "AgIAAIkJAAAAAAAAAAAtwKEJAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:56:00.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonPrefabScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\PersonPrefabScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PersonPrefabScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\PersonPrefabScript.cs",
+              "RelativeToolTip": "Assets\\script\\PersonPrefabScript.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAAwBAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:25:16.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientSend.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ClientSend.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ClientSend.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ClientSend.cs",
+              "RelativeToolTip": "Assets\\script\\ClientSend.cs",
+              "ViewState": "AgIAAHYDAAAAAAAAAAAlwJIDAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:33:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "materailScripts.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\materailScripts.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\materailScripts.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\materailScripts.cs",
+              "RelativeToolTip": "Assets\\script\\materailScripts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:36:35.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShopItemPredmet.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ShopItemPredmet.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ShopItemPredmet.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ShopItemPredmet.cs",
+              "RelativeToolTip": "Assets\\script\\ShopItemPredmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:38:03.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SampleWebView.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\SampleWebView.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\SampleWebView.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\SampleWebView.cs",
+              "RelativeToolTip": "Assets\\script\\SampleWebView.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:45:53.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "msgChat.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\msgChat.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\msgChat.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\msgChat.cs",
+              "RelativeToolTip": "Assets\\script\\msgChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:56:16.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Google.IOSResolver.dll",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\ExternalDependencyManager\\Editor\\1.2.169\\Google.IOSResolver.dll",
+              "RelativeDocumentMoniker": "Assets\\ExternalDependencyManager\\Editor\\1.2.169\\Google.IOSResolver.dll",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\ExternalDependencyManager\\Editor\\1.2.169\\Google.IOSResolver.dll",
+              "RelativeToolTip": "Assets\\ExternalDependencyManager\\Editor\\1.2.169\\Google.IOSResolver.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-03-06T03:56:16.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ControlPersonScreapt.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ControlPersonScreapt.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ControlPersonScreapt.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\ControlPersonScreapt.cs",
+              "RelativeToolTip": "Assets\\script\\ControlPersonScreapt.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:12:18.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Shop.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\Shop.cs",
+              "RelativeToolTip": "Assets\\script\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T04:11:07.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "prizav.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\prizav.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\prizav.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\prizav.cs",
+              "RelativeToolTip": "Assets\\script\\prizav.cs",
+              "ViewState": "AgIAAKEFAAAAAAAAAAAAwL4FAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:25:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "evalutionPanelScript.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\evalutionPanelScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\evalutionPanelScript.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\evalutionPanelScript.cs",
+              "RelativeToolTip": "Assets\\script\\evalutionPanelScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:16:50.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\CameraController.cs",
+              "ToolTip": "E:\\Anime-wars-main\\Anime-wars\\Assets\\script\\CameraController.cs",
+              "RelativeToolTip": "Assets\\script\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:54:42.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
